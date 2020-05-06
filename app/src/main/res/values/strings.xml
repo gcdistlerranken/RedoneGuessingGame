@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Redone Guessing Game</string>
+    <string name="textViewTitleForGuess">Guess The Number</string>
+    <string name="editTextForGuessInput">Enter Guess</string>
+    <string name="buttonCalculate">Guess</string>
+    <string name="buttonClear">Clear</string>
+    <string name="buttonStats">Game Stats</string>
+    <string name="buttonNewGame">New Game</string>
+    <string name="textViewTitleForStats">Game Stats</string>
+    <string name="buttonForReturnHome">Return Home</string>
+    <string name="buttonRank">Rank</string>
+    <string name="buttonTotals">Totals</string>
+    <string name="textViewTitleForRankLevel">Guessing Level Achieved</string>
+    <string name="textViewTitleForGameTotals">Guessing Game Totals</string>
+</resources>
